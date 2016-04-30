@@ -1,5 +1,5 @@
 # N-Men's Morris
-----
+--
 
 Developed by Zichen Jiang, Danish Khan, Kelvin Lin and Hasan Siddiqui. This Readme document was written on April 30th, 2016.
 
